@@ -12,3 +12,4 @@ while(a != n):
  
 print(f"""Congradulation you Guess the correct answer
     Your no.of guesses is '{s}'""")
+print("Thanks for playing")
